@@ -37,7 +37,7 @@ export default function Login() {
               lineHeight: 17,
               alignSelf: 'flex-start',
             }}>
-            Enter Employee ID
+            Employee ID
           </RTText>
           <TextInput
             style={[
@@ -61,7 +61,7 @@ export default function Login() {
               lineHeight: 17,
               alignSelf: 'flex-start',
             }}>
-            Enter Password
+            Password
           </RTText>
           <TextInput
             style={[
